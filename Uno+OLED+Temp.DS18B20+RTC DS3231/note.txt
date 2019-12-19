@@ -1,0 +1,1 @@
+Second LED do not work becuse of second alarm. I think it's because in proteus i'm using new DS3232, but in code i'm using old version of DS3231 library.
