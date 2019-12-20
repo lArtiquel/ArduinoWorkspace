@@ -18,3 +18,6 @@
 ### Example
 ![](Uno+OLED+Temp.DS18B20+RTC DS3231/working_example.jpg)
 
+## UNO-UART+Bluetooth
+### Traffic Lights
+![](UNO-UART+Bluetooth/trafficLights_example.jpg)
